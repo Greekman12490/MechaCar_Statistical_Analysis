@@ -18,3 +18,11 @@
 * * When we look at our R-Square values, given that it adjusted to around 68%, we can take into account that 68% percent of the values will be represent by the linear model. Also, that the p-value is around 5.35e-11 or 0.0000000000535, which is significantly smaller than 0.05, we will reject the null hypothesis that the slope is at zero.
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 * * Given that the R-Square adjusted value is around 68%, it does not effectively predict the mpg of the prototypes. In otherwords, it will make a mistake 1 out 3 times it predicts the mpg.
+## Summary Statistics on Suspension Coils
+### The following image is specifically looking at the statistics of the PSI of Suspension coils
+![PSI Summary](https://raw.githubusercontent.com/Greekman12490/MechaCar_Statistical_Analysis/main/images/MechaSuspension_PSISummary.PNG)
+### The following image is specifically looking at the statistics of the PSI of Suspension coils coming from different manufactoring lots
+![Lot Summary](https://raw.githubusercontent.com/Greekman12490/MechaCar_Statistical_Analysis/main/images/MechaSuspension_LotSummary.PNG)
+### According to the images, we will ask and answer the following question;
+* The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+* * If we look at the data of the first image, the specifications are met with the variance being around 62.3 PSI. However, when we look at the second image, we will see that the first manufacturing lot is below 1 PSI and the second being around 7.5 PSI. What we also notice is that the third lot exceeds 100 PSI maxiumum with its variance. This excessive PSI fails to meet the dictations of the specifications. 
