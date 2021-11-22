@@ -51,5 +51,3 @@
 * * Given that we will be using multiple manufacturers, it is best to use the ANOVA test when it comes to testing. If we only compared Mecha and one other manufactor, a Two-Sample t-test would be best
 * What data is needed to run the statistical test?
 * * Given that we are comparing multiple car manufacturers to MPG and ground clearance, we will be needing the car make's names, MPG averages of the Car Makes, and averages of the ground clearance per Car Makes (ex - Car Make - Volkswagen, Car Model - Jetta). If we want to be more specific with Car Models, we can do so.
-* 
-
