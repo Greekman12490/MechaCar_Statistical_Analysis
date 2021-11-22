@@ -37,3 +37,5 @@
 ![Lot2](https://raw.githubusercontent.com/Greekman12490/MechaCar_Statistical_Analysis/main/images/lot2_t-test.PNG)
 ### Individual t-test for Lot # 3
 ![Lot3](https://raw.githubusercontent.com/Greekman12490/MechaCar_Statistical_Analysis/main/images/lot3_t-test.PNG)
+
+### According to our t-tests, Lot # 3 p-value is less than 0.05, which means we reject the null hypothesis. Given the numbers that have seen in previous images for Lot # 3, we can assume the mean is significantly different than that of population mean of 1500.
